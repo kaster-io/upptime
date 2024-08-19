@@ -3,34 +3,42 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Kaster.io
+    url: https://kaster.io/
+  - name: Tankengine (APP)
+    url: https://the.tankengine.app/
+  - name: Tankengine (Marketing)
+    url: https://www.tankengine.app/
+  - name: Realtors wordsmith (APP)
+    url: https://app.realtorwordsmith.com/dashboard
+  - name: Realtors wordsmith (Marketing)
+    url: https://www.realtorwordsmith.com/
+  - name: URLTrack (APP)
+    url: https://app.urltrack.io/dashboard
+  - name: URLTrack (Marketing)
+    url: https://www.urltrack.io/
+  - name: RubbertHunt
+    url: https://www.rubberhunt.com/
+  - name: Portal
+    url: https://portal-kaster-io.vercel.app/
+  - name: TankEngine
+    url: https://the.tankengine.app/
+assignees: # Users to assign downtime issues (optional)
+  - EHDMC
+  - raudindev
+  - brandon-kaster
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # cname: demo.upptime.js.org
+  baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  introTitle: "Monitoring the reliability of **Kaster.io**'s web services"
+  introMessage: |
+  Welcome to the status page for Kaster.io's online services. Here, you can find real-time updates on the operational status of all our platforms.
+  We strive to maintain high availability and quickly address any issues that arise. Thank you for trusting us with your digital needs.
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
