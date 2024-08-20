@@ -37,6 +37,3 @@ status-website:
   name: Upptime
   introTitle: "Monitoring the reliability of **Kaster.io**'s web services"
   introMessage: Welcome to the status page for Kaster.io's online services. Here, you can find real-time updates on the operational status of all our platforms. We strive to maintain high availability and quickly address any issues that arise. Thank you for trusting us with your digital needs.
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
