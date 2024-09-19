@@ -148,18 +148,20 @@
     "url": "https://portal-kaster-io.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/portal-kaster-io.vercel.app.ico",
     "slug": "portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 333,
-    "timeDay": 351,
-    "timeWeek": 367,
-    "timeMonth": 333,
-    "timeYear": 333,
-    "dailyMinutesDown": {}
+    "time": 329,
+    "timeDay": 262,
+    "timeWeek": 343,
+    "timeMonth": 329,
+    "timeYear": 329,
+    "dailyMinutesDown": {
+      "2024-09-19": 0
+    }
   },
   {
     "name": "TankEngine",
