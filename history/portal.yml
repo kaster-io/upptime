@@ -1,7 +1,7 @@
 url: https://portal-kaster-io.vercel.app/
-status: up
-code: 200
-responseTime: 351
-lastUpdated: 2024-09-18T23:05:21.091Z
+status: down
+code: 500
+responseTime: 173
+lastUpdated: 2024-09-19T21:58:49.252Z
 startTime: 2024-08-20T00:32:15.854Z
 generator: Upptime <https://github.com/upptime/upptime>
